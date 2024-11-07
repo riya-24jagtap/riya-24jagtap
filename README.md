@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @riya-24jagtap
-- 🌱 I’m currently learning ... Computer Science at Mumbai University
-- 😄 Pronouns: ... she/her
+- 🌱 I’m currently learning Computer Science at Mumbai University
+- 😄 Pronouns: she/her
 
 
 <!---
